@@ -1,0 +1,25 @@
+{
+  "name": "apexplus_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexs.js",
+  "scripts": {
+    "start": "node indexs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apexplus_api": "file:",
+    "axios": "^1.7.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "mongoose": "^8.5.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0",
+    "uuid": "^10.0.0"
+  }
+}
