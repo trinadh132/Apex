@@ -36,10 +36,10 @@ To install and run the project, follow these steps:
 3. Start the server: `npm start`
 
 ## Deployment
-**frontend**:[aws amplify](https://staging.d1szl92k2opc9s.amplifyapp.com/)
-**backend**: [aws lamda](https://n04hxdmwr1.execute-api.ap-south-1.amazonaws.com/)
+**frontend**:[Pokemon Game](https://staging.d1szl92k2opc9s.amplifyapp.com/)
+**backend**: [server](https://n04hxdmwr1.execute-api.ap-south-1.amazonaws.com/)
 
-## code explination
+## code explanation
 
 ### Database
 1. Two tables are created: User and Pokemon.
@@ -49,14 +49,15 @@ To install and run the project, follow these steps:
 ### backend
 **Setup**
 1. Import all necessary libraries like Express.js, UUID, Mongoose, CORS, etc.
-2. Apply middleware for CORS and JSON parsing.
-**Operations**
-Create CRUD operations for Pokémon:
+2. Apply middleware for CORS and JSON parsing.<br>
+**Operations**<br>
+Create CRUD operations for Pokémon:<br>
 1. Create: Add a new Pokémon to the database.
 2. Read: Fetch details of Pokémon from the database.
 3. Update: Modify details of an existing Pokémon.
-4. Delete: Remove a Pokémon from the database.
-5. Create and read operations for User:
+4. Delete: Remove a Pokémon from the database.<br>
+
+Create and read operations for User:
 
 1. Create: Add a new user to the database.
 2. Read: Fetch user details from the database.
