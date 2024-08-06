@@ -36,9 +36,9 @@ To install and run the project, follow these steps:
 3. Start the server: `npm start`
 
 ## Deployment
-**frontend**:[Pokemon Game](https://staging.d1szl92k2opc9s.amplifyapp.com/)
-**backend**: [server](https://n04hxdmwr1.execute-api.ap-south-1.amazonaws.com/)
-**database**: [database-in-mongodb](https://cloud.mongodb.com/v2/663c6900c1292b43f697cc77#/metrics/replicaSet/663c696c897ab00301e2afa8/explorer/apexplus)
+**frontend**:[Pokemon Game](https://staging.d1szl92k2opc9s.amplifyapp.com/)<br>
+**backend**: [server](https://n04hxdmwr1.execute-api.ap-south-1.amazonaws.com/)<br>
+**database**: [database-in-mongodb](https://cloud.mongodb.com/v2/663c6900c1292b43f697cc77#/metrics/replicaSet/663c696c897ab00301e2afa8/explorer/apexplus)<br>
 
 ## code explanation
 
