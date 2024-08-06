@@ -50,8 +50,11 @@ To install and run the project, follow these steps:
 **Setup**
 1. Import all necessary libraries like Express.js, UUID, Mongoose, CORS, etc.
 2. Apply middleware for CORS and JSON parsing.<br>
+
 **Operations**<br>
+
 Create CRUD operations for Pokémon:<br>
+
 1. Create: Add a new Pokémon to the database.
 2. Read: Fetch details of Pokémon from the database.
 3. Update: Modify details of an existing Pokémon.
